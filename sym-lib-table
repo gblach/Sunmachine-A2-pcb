@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "RCWL-0516")(type "KiCad")(uri "${KIPRJMOD}/RCWL-0516.kicad_sym")(options "")(descr ""))
+  (lib (name "MS50SFA2")(type "Legacy")(uri "${KIPRJMOD}/MS50SFA2.lib")(options "")(descr ""))
+)
