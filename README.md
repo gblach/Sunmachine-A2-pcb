@@ -1,9 +1,9 @@
 # Sunmachine-A2-pcb
 The driver for WS2812, SK6812 or similar LED strips controlled via Bluetooth LE. It supports both RGB and WWA LEDs.
-
 This driver uses motion and light sensors, so in automatic mode it can turn on the light when it detects someone's presence in the dark.
-
 The PCB is designed for the [Hammond 1551V3](https://www.hammfg.com/electronics/small-case/plastic/1551v) enclosure, so it can be hung on a wall or ceiling.
+The firmware for the board is available in [Sunmachine-A2-fw](https://github.com/gblach/Sunmachine-A2-fw) repo
+and the mobile app to control the board is available in [Sunmachine-app](https://github.com/gblach/Sunmachine-app) repo.
 
 ## Key components
 - [Minew MS50SFA2](https://www.minew.com/product/nrf52832-ms50sfa2/) module with Nordic nRF52832 processor.
